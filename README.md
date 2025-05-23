@@ -1,2 +1,18 @@
-# energy-plans
-Collection of tools and steps for energy planning
+# Energy planning #
+-------------------
+
+Here goes an introduction ... 
+
+## Steps for energy planning ##
+-------------------------------
+
+
+## Collection of tools ##
+-------------------------
+
+# Example applications #
+------------------------
+
+.... 
+
+
